@@ -8,3 +8,5 @@ Main idea of this application is to create Fake Contacts Generator that could he
 URL to check application: [https://ishkurko.shinyapps.io/shiny-application/](https://ishkurko.shinyapps.io/shiny-application/)
 
 ## Reproducible Pitch
+Folder [reproducible-pitch-presentation](reproducible-pitch-presentation) contais sources for Reproducible Pitch that describes Fake Contacts Generator application.
+URL to check presentation: [http://rpubs.com/ishkurko/fake-contacts-generator-presentation](http://rpubs.com/ishkurko/fake-contacts-generator-presentation)
