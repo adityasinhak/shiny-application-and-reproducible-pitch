@@ -3,8 +3,8 @@
 This project has two parts. First, this is a Shiny application, that also deploed on servers. Second, Rstudio Presenter to with a reproducible pitch presentation about application.
 
 ## Shiny Application
-Folder [a relative link](shiny-application) contais sources for Shiny Application.
+Folder [shiny-application](shiny-application) contais sources for Shiny Application.
 Main idea of this application is to create Fake Contacts Generator that could help into some apllication testing.
-URL to check application: [a link](https://ishkurko.shinyapps.io/shiny-application/)
+URL to check application: [https://ishkurko.shinyapps.io/shiny-application/](https://ishkurko.shinyapps.io/shiny-application/)
 
 ## Reproducible Pitch
